@@ -1,0 +1,7 @@
+This concludes the five Creational Design Patterns. Here’s a recap:
+
+Singleton – Ensures a class has only one instance.
+Factory Method – Creates objects, but allows subclasses to determine the specific class to instantiate.
+Abstract Factory – Provides an interface to create families of related objects.
+Builder – Builds a complex object step by step.
+Prototype – Creates new objects by copying existing objects (prototypes)
